@@ -1,0 +1,16 @@
+{
+  "name": "weapp-tool-scripts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "程巍巍",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "svg2ttf": "^4.2.0",
+    "svgicons2svgfont": "^9.0.4",
+    "ttf2woff": "^2.0.1"
+  }
+}
